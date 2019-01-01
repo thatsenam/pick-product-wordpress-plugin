@@ -1,0 +1,1 @@
+console.log('Hello From Pick Product Plugin');
